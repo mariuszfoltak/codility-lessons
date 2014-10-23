@@ -1,6 +1,6 @@
-package pl.foltak.codility.lesson1.PermMissingElem;
+package pl.foltak.codility.lesson1;
 
-public class Solution {
+public class PermMissingElem {
 
     public int solution(int[] A) {
         int numberOfElements = A.length + 1;
