@@ -2,7 +2,7 @@ package pl.foltak.codility.lesson2;
 
 /**
  *
- * @author Mariusz Foltak <mariusz.foltak@coi.gov.pl>
+ * @author Mariusz Foltak <mariusz@foltak.pl>
  */
 public class MissingInteger {
 
