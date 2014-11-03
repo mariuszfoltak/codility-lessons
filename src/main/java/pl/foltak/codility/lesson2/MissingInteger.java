@@ -1,9 +1,5 @@
 package pl.foltak.codility.lesson2;
 
-/**
- *
- * @author Mariusz Foltak <mariusz@foltak.pl>
- */
 public class MissingInteger {
 
     public int solution(int[] A) {

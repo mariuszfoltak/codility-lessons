@@ -4,10 +4,6 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Mariusz Foltak <mariusz@foltak.pl>
- */
 public class PermCheckTest {
 
     private PermCheck instance;

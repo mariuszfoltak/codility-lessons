@@ -5,10 +5,6 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Mariusz Foltak <mariusz.foltak@coi.gov.pl>
- */
 public class MissingIntegerTest {
 
     private MissingInteger instance;
